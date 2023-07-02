@@ -1,2 +1,2 @@
-# BitcoinPrice-Prediction-ProjectWork
-This project aims to work on the prediction system for Bitcoin using FbProphet to predict the price. There are various factors affecting the price of Bitcoin. A FbProphet model is built that helps to define the price trend of Bitcoin in the future.
+BITCOINPRICE PREDICTION USING PROPHET
+ VIDEO DEMONSTRATION LINK : https://drive.google.com/file/d/1Q_5TIih7K764FqNhimIXn3ydHWsN_HRT/view?usp=drive_link
